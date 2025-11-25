@@ -1329,11 +1329,11 @@ public:
 };
 
 int main() {
-
+    cout << "\033[38;2;0;0;255m";    
     cout << "============================================================" << endl;
     cout << "UNIDISC ENGINE" << endl;
     cout << "FAST University Management System" << endl;
-    cout << "Discrete Mathematics Project - 2024" << endl;
+    cout << "Discrete Mathematics Project - 2025" << endl;
     cout << "============================================================" << endl;
 
     cout << "\nInitializing system..." << endl;
